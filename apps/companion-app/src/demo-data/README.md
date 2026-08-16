@@ -1,0 +1,1 @@
+Demo readings only. Keep prototype readings separate from hardware measurements.

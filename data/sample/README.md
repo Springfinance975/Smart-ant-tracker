@@ -1,0 +1,1 @@
+Sample CSV/JSON data belongs here. Label all synthetic/demo readings clearly.

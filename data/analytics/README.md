@@ -1,0 +1,1 @@
+Simple trend calculations and notebooks belong here.
